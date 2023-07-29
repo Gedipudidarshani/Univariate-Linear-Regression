@@ -38,6 +38,7 @@ plt.plot(X,Y_Pred,color="red")
 plt.show()
 ```
 ## Output
+![solution](output2.png)
 </br>![solution](output3.png)
 </br>![solution](output4.png)
 
